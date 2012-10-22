@@ -1,0 +1,12 @@
+Copyright (c) 2012 Tulonsae
+
+This software implements tools for reading and editing data files for the
+Mojang Minecraft server and the CraftBukkit implementation.
+
+This software is copyright by Tulonsae and other contributors (as noted in
+each source file) and is distributed under an MIT-style License.  The license
+text is located in the LICENSE.txt file.
+
+Minecraft intellectual property and software is copyright by Mojang AB.
+
+Bukkit and CraftBukkit software is copyright by the Bukkit Dev team.
